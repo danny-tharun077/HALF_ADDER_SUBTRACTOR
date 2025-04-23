@@ -34,6 +34,9 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![image](https://github.com/user-attachments/assets/1ba65c6b-66e4-4bce-89d9-890069f9b74d)
+![image](https://github.com/user-attachments/assets/0343c630-c360-44e7-a4c3-6da3d6713258)
+
 
 **Procedure**
 
@@ -49,17 +52,22 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-
-![image](https://github.com/user-attachments/assets/254197b9-f38d-45fd-b9da-a40c109a444a)
+![image](https://github.com/user-attachments/assets/d411b8e3-549c-4533-a407-da9b20d194da)
+![image](https://github.com/user-attachments/assets/752fe306-17b5-4dc3-84ee-a8189bf9412e)
 
 
 Developed by: RegisterNumber:*/THARUN DANIEL.Y 212224050054
 
 **RTL Schematic**
-![image](https://github.com/user-attachments/assets/ac51e9af-66df-470d-ab37-3323213cf488)
+![image](https://github.com/user-attachments/assets/2963454e-0759-40a7-8cf7-b420c5866af9)
+![image](https://github.com/user-attachments/assets/0642f5c1-13cc-4968-b49c-416063833b2c)
 
 
-**Output/TIMING Waveform**![image](https://github.com/user-attachments/assets/8c18b93e-f11e-4673-a278-35834117a9b9)
+
+**Output/TIMING Waveform**
+![image](https://github.com/user-attachments/assets/c1d1b869-6c8d-4c38-86f1-04ea12d0b862)
+![image](https://github.com/user-attachments/assets/ea143599-5394-44c3-bcdc-d32b926d641a)
+
 
 
 
