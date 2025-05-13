@@ -52,25 +52,34 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+
 ![image](https://github.com/user-attachments/assets/d411b8e3-549c-4533-a407-da9b20d194da)
+
 ![image](https://github.com/user-attachments/assets/752fe306-17b5-4dc3-84ee-a8189bf9412e)
 
 
-Developed by: RegisterNumber:*/THARUN DANIEL.Y 212224050054
+Developed by: THARUN DANIEL.Y
+
+RegisterNumber: 212224050054
 
 **RTL Schematic**
+
 ![image](https://github.com/user-attachments/assets/2963454e-0759-40a7-8cf7-b420c5866af9)
+
 ![image](https://github.com/user-attachments/assets/0642f5c1-13cc-4968-b49c-416063833b2c)
 
 
 
 **Output/TIMING Waveform**
 ![image](https://github.com/user-attachments/assets/c1d1b869-6c8d-4c38-86f1-04ea12d0b862)
-![image](https://github.com/user-attachments/assets/ea143599-5394-44c3-bcdc-d32b926d641a)
+
+![image](https://github.com/user-attachments/assets/62dfe393-5457-4839-9a1c-7dba965d4f46)
+
 
 
 
 
 **Result:**
+
  Thus the given logic functions are implemented using and their operations are
  verified using Verilog programming
